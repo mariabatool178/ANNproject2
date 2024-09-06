@@ -3,3 +3,4 @@ pillow
 numpy
 streamlit
 opencv-python-headless
+tensorflow
